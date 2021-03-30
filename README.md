@@ -4,4 +4,4 @@
 
 #### When the project is determined, all the files related to it will be under this repository.
 
-#### You can also find my [Wiki] (https://github.com/selinkocakusak/swe573/wiki/What-I-learned)
+#### You can also find my [Wiki](https://github.com/selinkocakusak/swe573/wiki/What-I-learned)
