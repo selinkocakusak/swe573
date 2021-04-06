@@ -8,4 +8,4 @@
 * #### You can also find my [Wiki](https://github.com/selinkocakusak/swe573/wiki/What-I-learned). ✔
 
 #### Second Week:
-* #### Please find my [Wiki] for Requirements Elicitation for the project.
+* #### Please find my [Wiki](https://github.com/selinkocakusak/swe573/wiki/Requirements-Elicitation-Document) for Requirements Elicitation for the project. ✔
