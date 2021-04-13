@@ -4,8 +4,6 @@
 
 * #### All the files related to the project will be under this repository.
 
-#### First Week:
-* #### You can also find my [Wiki](https://github.com/selinkocakusak/swe573/wiki/What-I-learned). ✔
+* #### Please visit my [Wiki](https://github.com/selinkocakusak/swe573/wiki). ✔
 
-#### Second Week:
-* #### Please find my [Wiki](https://github.com/selinkocakusak/swe573/wiki/Requirements-Elicitation-Document) for Requirements Elicitation for the project. ✔
+
